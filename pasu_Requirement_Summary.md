@@ -8,19 +8,19 @@ mike@saferstrategy.com
 
 Privileged Access Suite is a bundle of software that includes the following:
 
-- Authentication Services (VAS)
- - Bridge AD users and management to Unix
- - Authentication
- - Group Policy
-- Privilege Manager for sudo (PMsudo)
- - Centralized management of sudoers policy
- - Centralized Logging
- - Automatic encryption
- - Keystroke and Session Recording
-- Management Console for Unix (MCU)
- - Java based Unix administration tool
- - Installs and Configures agents
- - Real-time reporting of Unix access and privileges
+* Authentication Services (VAS)
+  * Bridge AD users and management to Unix
+  * Authentication
+  * Group Policy
+* Privilege Manager for sudo (PMsudo)
+  * Centralized management of sudoers policy
+  * Centralized Logging
+  * Automatic encryption
+  * Keystroke and Session Recording
+* Management Console for Unix (MCU)
+  * Java based Unix administration tool
+  * Installs and Configures agents
+  * Real-time reporting of Unix access and privileges
 
 ## Product Download Locations
 To download the latest product versions, you will first need to register for an account with One Identity Support. If you have trouble registering, your One Identity salesperson can help.
